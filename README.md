@@ -3,6 +3,13 @@
 This is a small Selenium WebDriver automation framework built with Java, Maven, and TestNG.
 It currently contains smoke tests for `https://evo.dev.theysaid.io/`.
 
+Session Recording
+
+The full assessment session recording (including manual exploration, AI usage, and automation work) is available here.
+The link is set to view access enabled, as required:
+
+[Session Recording (Google Drive)](https://drive.google.com/file/d/1GCWB6tFrJagJDOtnFOcJQ4lWQSZcCJpD/view?usp=drive_link)
+
 ## What Is Included
 
 - Maven project setup with Selenium, TestNG, and WebDriverManager
